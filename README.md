@@ -1,5 +1,5 @@
-# Python-Projects
-Network Traffic Analyzer
+
+# Network Traffic Analyzer
 # Suspicious Packet Detection
 
 ## Description
